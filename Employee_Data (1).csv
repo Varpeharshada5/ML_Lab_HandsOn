@@ -1,0 +1,41 @@
+Employee_ID,Name,Department,Designation,Salary,Date_of_Joining,Experience_Years,Location,Email,Phone
+EID1000,Employee_1,IT,Consultant,99540,2017-12-05,3,San Francisco,employee1@company.com,+1-555-4030
+EID1001,Employee_2,Marketing,Manager,75371,2017-11-11,13,New York,employee2@company.com,+1-555-8961
+EID1002,Employee_3,HR,Manager,117977,2016-01-20,9,London,employee3@company.com,+1-555-6492
+EID1003,Employee_4,Engineering,Engineer,73093,2021-05-15,3,London,employee4@company.com,+1-555-6056
+EID1004,Employee_5,IT,Engineer,116810,2021-07-27,7,New York,employee5@company.com,+1-555-5046
+EID1005,Employee_6,HR,Consultant,51624,2020-02-16,4,Berlin,employee6@company.com,+1-555-4189
+EID1006,Employee_7,Marketing,Analyst,82696,2016-06-20,5,Berlin,employee7@company.com,+1-555-2953
+EID1007,Employee_8,IT,Manager,127825,2020-04-25,2,San Francisco,employee8@company.com,+1-555-8955
+EID1008,Employee_9,Engineering,Consultant,69750,2015-01-08,7,New York,employee9@company.com,+1-555-5242
+EID1009,Employee_10,HR,Clerk,62465,2015-09-14,10,Berlin,employee10@company.com,+1-555-3996
+EID1010,Employee_11,Engineering,Engineer,105523,2018-12-10,8,San Francisco,employee11@company.com,+1-555-9380
+EID1011,Employee_12,Finance,Analyst,99781,2018-02-12,4,San Francisco,employee12@company.com,+1-555-2296
+EID1012,Employee_13,HR,Consultant,46174,2021-03-13,2,London,employee13@company.com,+1-555-8509
+EID1013,Employee_14,Finance,Consultant,51266,2018-07-21,8,New York,employee14@company.com,+1-555-6763
+EID1014,Employee_15,IT,Clerk,143746,2020-11-21,3,London,employee15@company.com,+1-555-8207
+EID1015,Employee_16,HR,Analyst,118613,2020-12-14,12,New York,employee16@company.com,+1-555-2465
+EID1016,Employee_17,HR,Manager,94680,2016-10-09,14,New York,employee17@company.com,+1-555-5666
+EID1017,Employee_18,Finance,Engineer,32386,2023-07-15,5,New York,employee18@company.com,+1-555-5274
+EID1018,Employee_19,Marketing,Analyst,52049,2021-04-06,1,Mumbai,employee19@company.com,+1-555-2824
+EID1019,Employee_20,HR,Analyst,38207,2019-02-11,1,San Francisco,employee20@company.com,+1-555-9288
+EID1020,Employee_21,Engineering,Manager,64874,2016-11-10,1,Berlin,employee21@company.com,+1-555-3419
+EID1021,Employee_22,IT,Analyst,140087,2020-12-09,9,London,employee22@company.com,+1-555-2426
+EID1022,Employee_23,HR,Clerk,98435,2018-01-10,8,San Francisco,employee23@company.com,+1-555-1427
+EID1023,Employee_24,IT,Consultant,51885,2017-09-08,9,London,employee24@company.com,+1-555-6386
+EID1024,Employee_25,Marketing,Analyst,68920,2015-02-19,7,Mumbai,employee25@company.com,+1-555-1811
+EID1025,Employee_26,IT,Clerk,71237,2021-11-24,15,London,employee26@company.com,+1-555-4567
+EID1026,Employee_27,Marketing,Clerk,88652,2021-04-06,8,London,employee27@company.com,+1-555-2223
+EID1027,Employee_28,Engineering,Manager,136888,2017-07-22,2,Mumbai,employee28@company.com,+1-555-9775
+EID1028,Employee_29,Engineering,Analyst,41445,2016-06-16,4,San Francisco,employee29@company.com,+1-555-1552
+EID1029,Employee_30,Engineering,Engineer,42197,2020-10-20,8,New York,employee30@company.com,+1-555-3263
+EID1030,Employee_31,Marketing,Manager,135470,2023-10-26,8,New York,employee31@company.com,+1-555-3337
+EID1031,Employee_32,IT,Consultant,148118,2021-06-28,5,Berlin,employee32@company.com,+1-555-5253
+EID1032,Employee_33,Engineering,Consultant,90745,2022-02-10,6,San Francisco,employee33@company.com,+1-555-9770
+EID1033,Employee_34,Finance,Engineer,47873,2021-08-06,10,Mumbai,employee34@company.com,+1-555-9714
+EID1034,Employee_35,Marketing,Consultant,38005,2020-04-17,2,San Francisco,employee35@company.com,+1-555-7877
+EID1035,Employee_36,Finance,Manager,36127,2015-09-17,10,New York,employee36@company.com,+1-555-4377
+EID1036,Employee_37,IT,Engineer,55898,2022-09-25,8,London,employee37@company.com,+1-555-3211
+EID1037,Employee_38,IT,Clerk,105115,2019-01-18,7,London,employee38@company.com,+1-555-9864
+EID1038,Employee_39,Marketing,Manager,105885,2021-11-21,5,Mumbai,employee39@company.com,+1-555-8037
+EID1039,Employee_40,IT,Engineer,73809,2019-09-08,13,Berlin,employee40@company.com,+1-555-9285
